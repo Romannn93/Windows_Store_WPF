@@ -1,0 +1,67 @@
+﻿<UserControl x:Class="WPF_MC.UserControls.AppsViewer"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WPF_MC.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" 
+             d:DesignWidth="1200"
+             Margin="5,5,5,5"
+    >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="50"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="50"></ColumnDefinition>
+            <ColumnDefinition Width="0.02*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Button
+            Width="40"
+            Height="40"
+            Margin="4"
+            Grid.Column="0" 
+            VerticalAlignment="Center" 
+            Name="ScrollLeftButton" 
+            Click="ScrollLeftButton_Click"
+            Content="&lt;"
+        />
+        <ScrollViewer
+            Grid.Column="1"
+            x:Name="AppsScrollView"
+            VerticalScrollBarVisibility="Hidden"
+            HorizontalScrollBarVisibility="Hidden"
+            PreviewMouseWheel="AppsScrollView_PreviewMouseWheel"
+        >
+            <ScrollViewer.Resources>
+                <DataTemplate x:Key="AppListTemplate">
+                    <StackPanel/>
+                </DataTemplate>
+            </ScrollViewer.Resources>
+            <ItemsControl x:Name="AppsList" 
+                          ItemTemplate="{StaticResource AppListTemplate}"
+            >
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <VirtualizingStackPanel Orientation="Horizontal"/>
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+            </ItemsControl>
+        </ScrollViewer>
+
+        <Button
+            Width="40"
+            Height="40"
+            Margin="4"
+            Grid.Column="2" 
+            VerticalAlignment="Center" 
+            Name="ScrollRightButton" 
+            Click="ScrollRightButton_Click"
+            Content="&gt;"
+        />
+    </Grid>
+</UserControl>

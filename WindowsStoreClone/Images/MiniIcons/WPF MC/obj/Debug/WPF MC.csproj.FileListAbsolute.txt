@@ -1,0 +1,111 @@
+C:\Users\Gzen\Developer\Denis Videos\WPF MC\bin\Debug\WPF MC.exe.config
+C:\Users\Gzen\Developer\Denis Videos\WPF MC\bin\Debug\WPF MC.exe
+C:\Users\Gzen\Developer\Denis Videos\WPF MC\bin\Debug\WPF MC.pdb
+C:\Users\Gzen\Developer\Denis Videos\WPF MC\obj\Debug\WPF MC.csprojAssemblyReference.cache
+C:\Users\Gzen\Developer\Denis Videos\WPF MC\obj\Debug\MainWindow.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF MC\obj\Debug\App.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF MC\obj\Debug\WPF MC_MarkupCompile.cache
+C:\Users\Gzen\Developer\Denis Videos\WPF MC\obj\Debug\WPF MC_MarkupCompile.lref
+C:\Users\Gzen\Developer\Denis Videos\WPF MC\obj\Debug\MainWindow.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF MC\obj\Debug\WPF MC.g.resources
+C:\Users\Gzen\Developer\Denis Videos\WPF MC\obj\Debug\WPF_MC.Properties.Resources.resources
+C:\Users\Gzen\Developer\Denis Videos\WPF MC\obj\Debug\WPF MC.csproj.GenerateResource.cache
+C:\Users\Gzen\Developer\Denis Videos\WPF MC\obj\Debug\WPF MC.csproj.CoreCompileInputs.cache
+C:\Users\Gzen\Developer\Denis Videos\WPF MC\obj\Debug\WPF MC.exe
+C:\Users\Gzen\Developer\Denis Videos\WPF MC\obj\Debug\WPF MC.pdb
+C:\Users\Gzen\Developer\Denis Videos\WPF MC\obj\Debug\UserControls\AnApp.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF MC\obj\Debug\UserControls\AnApp.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF MC\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF MC\bin\Debug\MiscUtil.dll
+C:\Users\Gzen\Developer\Denis Videos\WPF MC\bin\Debug\MiscUtil.xml
+C:\Users\Gzen\Developer\Denis Videos\WPF MC\obj\Debug\WPF MC.csproj.CopyComplete
+C:\Users\Gzen\Developer\Denis Videos\WPF MC\obj\Debug\UserControls\AppsViewer.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF MC\obj\Debug\UserControls\AppsViewer.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\bin\Debug\WPF MC.exe.config
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\bin\Debug\WPF MC.exe
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\bin\Debug\WPF MC.pdb
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\bin\Debug\MiscUtil.dll
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\bin\Debug\MiscUtil.xml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\MainWindow.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\Pages\AppDetails.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\Pages\Main.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\UserControls\AnApp.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\UserControls\AppDetailsTitleAndBackground.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\UserControls\AppsViewer.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\UserControls\ProductivityTopApps.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\UserControls\TopApps.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\App.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\WPF MC_MarkupCompile.cache
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\WPF MC_MarkupCompile.lref
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\MainWindow.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\Pages\AppDetails.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\Pages\Main.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\UserControls\AnApp.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\UserControls\AppDetailsTitleAndBackground.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\UserControls\AppsViewer.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\UserControls\ProductivityTopApps.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\UserControls\TopApps.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\WPF MC.g.resources
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\WPF_MC.Properties.Resources.resources
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\WPF MC.csproj.GenerateResource.cache
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\WPF MC.csproj.CoreCompileInputs.cache
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\WPF MC.csproj.CopyComplete
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\WPF MC.exe
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\WPF MC.pdb
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\WPF MC.csprojAssemblyReference.cache
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\UserControls\AppDetailsTabContent\Overview.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\UserControls\AppDetailsTabContent\Overview.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\UserControls\AppDetailsTabContent\SystemRequirements.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\UserControls\AppDetailsTabContent\SystemRequirements.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\UserControls\AppDetailsTabContent\Areview.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\UserControls\AppDetailsTabContent\Reviews.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\UserControls\AppDetailsTabContent\Areview.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\BreakdownZips\WPF MC - 2 Display multiple apps in a horizontal list\WPF MC\obj\Debug\UserControls\AppDetailsTabContent\Reviews.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\bin\Debug\WPF MC.exe.config
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\bin\Debug\WPF MC.exe
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\bin\Debug\WPF MC.pdb
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\bin\Debug\MiscUtil.dll
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\bin\Debug\MiscUtil.xml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\MainWindow.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\Pages\AppDetails.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\Pages\Main.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\UserControls\AnApp.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\UserControls\AppDetailsTabContent\Areview.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\UserControls\AppDetailsTabContent\Overview.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\UserControls\AppDetailsTabContent\Related.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\UserControls\AppDetailsTabContent\Reviews.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\UserControls\AppDetailsTabContent\SystemRequirements.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\UserControls\AppDetailsTitleAndBackground.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\UserControls\AppsViewer.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\UserControls\ProductivityTopApps.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\UserControls\TopApps.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\App.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\WPF MC_MarkupCompile.cache
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\WPF MC_MarkupCompile.lref
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\MainWindow.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\Pages\AppDetails.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\Pages\Main.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\UserControls\AnApp.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\UserControls\AppDetailsTabContent\Areview.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\UserControls\AppDetailsTabContent\Overview.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\UserControls\AppDetailsTabContent\Related.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\UserControls\AppDetailsTabContent\Reviews.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\UserControls\AppDetailsTabContent\SystemRequirements.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\UserControls\AppDetailsTitleAndBackground.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\UserControls\AppsViewer.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\UserControls\ProductivityTopApps.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\UserControls\TopApps.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\WPF MC.g.resources
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\WPF_MC.Properties.Resources.resources
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\WPF MC.csproj.GenerateResource.cache
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\WPF MC.csproj.CoreCompileInputs.cache
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\WPF MC.csproj.CopyComplete
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\WPF MC.exe
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\WPF MC.pdb
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\WPF MC.csprojAssemblyReference.cache
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\Pages\TopAppsWrapped.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\Pages\TopAppsWrapped.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\UserControls\HeaderRightButtons.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Breakdown\WPF MC\obj\Debug\UserControls\HeaderRightButtons.baml

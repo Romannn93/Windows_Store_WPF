@@ -1,0 +1,186 @@
+﻿<UserControl x:Class="WindowsStoreClone.UserControls.TopApps"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WindowsStoreClone.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.25*"/>
+            <ColumnDefinition Width="0.25*"/>
+            <ColumnDefinition Width="0.25*"/>
+            <ColumnDefinition Width="0.25*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.33*"></RowDefinition>
+            <RowDefinition Height="0.33*"></RowDefinition>
+            <RowDefinition Height="0.33*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Image
+            Name="TopFirstImage"
+            Grid.Row="0" Grid.Column="0"
+            Grid.RowSpan="2" Grid.ColumnSpan="3"
+            VerticalAlignment="Stretch"
+            HorizontalAlignment="Stretch"
+            Stretch="Fill"
+            Source="/Images/TopAppIcons/Tropical.jpg"
+            Margin="2,2,2,2"
+            MouseUp="Image_MouseUp"
+            />
+        <Image
+            Name="TopImage"
+            Grid.Row="0" Grid.Column="3"
+            Grid.RowSpan="1" Grid.ColumnSpan="1"
+            VerticalAlignment="Stretch"
+            HorizontalAlignment="Stretch"
+            Stretch="UniformToFill"
+            Source="/Images/TopAppIcons/Circus.jpg"
+            Margin="2,2,2,2"
+            MouseUp="Image_MouseUp"
+            />
+        <Image
+            Name="MiddleImage"
+            Grid.Row="1" Grid.Column="3"
+            Grid.RowSpan="1" Grid.ColumnSpan="1"
+            VerticalAlignment="Stretch"
+            HorizontalAlignment="Stretch"
+            Stretch="UniformToFill"
+            Source="/Images/TopAppIcons/Race.jpg"
+            Margin="2,2,2,2"
+            MouseUp="Image_MouseUp"
+            />
+        <Image
+            Name="BottomImage"
+            Grid.Row="2" Grid.Column="3"
+            Grid.RowSpan="1" Grid.ColumnSpan="1"
+            VerticalAlignment="Stretch"
+            HorizontalAlignment="Stretch"
+            Stretch="Fill"
+            Source="/Images/TopAppIcons/Messagers.jpg"
+            Margin="2,2,2,2"
+            MouseUp="Image_MouseUp"
+            />
+        <Image
+            Name="BottomSecondImage"
+            Grid.Row="2" Grid.Column="2"
+            Grid.RowSpan="1" Grid.ColumnSpan="1"
+            VerticalAlignment="Stretch"
+            HorizontalAlignment="Stretch"
+            Stretch="UniformToFill"
+            Source="/Images/TopAppIcons/louvre.jpg"
+            Margin="2,2,2,2"
+            MouseUp="Image_MouseUp"
+            />
+        <Grid Name="BottomGrid"
+              Grid.Row="2"
+              Grid.Column="0"
+              Grid.ColumnSpan="2"
+            >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.5*"></ColumnDefinition>
+                <ColumnDefinition Width="0.5*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.5*"></RowDefinition>
+                <RowDefinition Height="0.5*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Button Name="TopAppsButton"
+                    FontSize="18"
+                    Grid.Row="0"
+                    Grid.Column="0"
+                    Margin="2,2,2,2"
+                    Click="TopAppsButton_Click"
+                    >
+                Top Apps
+            </Button>
+            <Button Name="FeaturedButton"
+                    FontSize="18"
+                    Grid.Row="0"
+                    Grid.Column="1"
+                    Margin="2,2,2,2">
+                Featured
+            </Button>
+            <Button Name="TopGamesButton"
+                    FontSize="18"
+                    Grid.Row="1"
+                    Grid.Column="0"
+                    Margin="2,2,2,2">
+                Top Games
+            </Button>
+            <Button Name="CollectionsButton"
+                    FontSize="18"
+                    Grid.Row="1"
+                    Grid.Column="1"
+                    Margin="2,2,2,2">
+                Collections
+            </Button>
+        </Grid>
+        <Canvas
+            Grid.Column="0" Grid.Row="0"
+            Grid.ColumnSpan="4"
+            Grid.RowSpan="3"
+            Opacity="0.4"
+            Background="#2e2e2e"
+            IsHitTestVisible="False"
+            />
+        <Label Name="AppNameLabelTop1"
+               Grid.Row="0"
+               Grid.Column="0"
+               Grid.ColumnSpan="3"
+               Grid.RowSpan="2"
+               FontSize="20"
+               FontWeight="DemiBold"
+               Foreground="White"
+               VerticalAlignment="Bottom"
+               HorizontalContentAlignment="Center"
+               >
+            Tropical
+        </Label>
+        <Label Name="AppNameLabelTop2"
+               Grid.Row="0"
+               Grid.Column="3"
+               FontSize="23"
+               FontWeight="DemiBold"
+               Foreground="White"
+               VerticalAlignment="Bottom"
+               HorizontalContentAlignment="Center"
+               >
+            Circus 
+        </Label>
+        <Label Name="AppNameLabelTop3"
+               Grid.Row="1"
+               Grid.Column="3"
+               FontSize="23"
+               FontWeight="DemiBold"
+               Foreground="White"
+               VerticalAlignment="Bottom"
+               HorizontalContentAlignment="Center"
+               >
+            Race
+        </Label>
+        <Label Name="AppNameLabelBottom1"
+               Grid.Row="2"
+               Grid.Column="2"
+               FontSize="23"
+               FontWeight="DemiBold"
+               Foreground="White"
+               VerticalAlignment="Bottom"
+               HorizontalContentAlignment="Center"
+               >
+            Louvre
+        </Label>
+        <Label Name="AppNameLabelBottom2"
+               Grid.Row="2"
+               Grid.Column="3"
+               FontSize="23"
+               FontWeight="DemiBold"
+               Foreground="White"
+               VerticalAlignment="Bottom"
+               HorizontalContentAlignment="Center"
+               >
+            Messagers
+        </Label>
+    </Grid>
+</UserControl>

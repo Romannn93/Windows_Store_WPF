@@ -1,0 +1,233 @@
+﻿<UserControl 
+    x:Class="WPF_MC.UserControls.ProductivityTopApps"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+    xmlns:local="clr-namespace:WPF_MC.UserControls"
+    mc:Ignorable="d" 
+    d:DesignHeight="450" 
+    d:DesignWidth="950"
+    >
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Name="LeftMostColumn"  Width="0.25*"></ColumnDefinition>
+            <ColumnDefinition Name="LeftColumn"      Width="0.25*"></ColumnDefinition>
+            <ColumnDefinition Name="RightColumn"     Width="0.25*"></ColumnDefinition>
+            <ColumnDefinition Name="RightMostColumn" Width="0.25*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.33*"></RowDefinition>
+            <RowDefinition Height="0.33*"></RowDefinition>
+            <RowDefinition Height="0.33*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Image 
+            Grid.Column="0" Grid.Row="0"
+            Grid.ColumnSpan="2"
+            Grid.RowSpan="2"
+            Source="/Images/ProductivityAppIcons/02-Photoshop.jpg" 
+            VerticalAlignment="Stretch" 
+            HorizontalAlignment="Stretch" 
+            Stretch="Fill"
+            Margin="2,2,2,2"
+            MouseUp="Image_MouseUp"
+        />
+        <Image 
+            Grid.Column="0" Grid.Row="2"
+            Source="/Images/ProductivityAppIcons/04-snack.jpg" 
+            VerticalAlignment="Stretch" 
+            HorizontalAlignment="Stretch" 
+            Stretch="Fill"
+            Margin="2,2,2,2"
+            MouseUp="Image_MouseUp"
+        />
+        <Image 
+            Grid.Column="1" Grid.Row="2"
+            Source="/Images/ProductivityAppIcons/05-Watch.jpg" 
+            VerticalAlignment="Stretch" 
+            HorizontalAlignment="Stretch" 
+            Stretch="Fill"
+            Margin="2,2,2,2"
+            MouseUp="Image_MouseUp"
+        />
+        <Image Name="RightLargeImage"
+            Grid.Column="2" Grid.Row="0"
+            Grid.ColumnSpan="2"
+            Grid.RowSpan="2"
+            Source="/Images/ProductivityAppIcons/01-Finance.jpg" 
+            VerticalAlignment="Stretch" 
+            HorizontalAlignment="Stretch" 
+            Stretch="Fill"
+            Margin="2,2,2,2"            
+            MouseUp="Image_MouseUp"
+        />
+        <Image 
+            Grid.Column="2" Grid.Row="2"
+            Source="/Images/ProductivityAppIcons/03-Slick Draw.jpg" 
+            VerticalAlignment="Stretch" 
+            HorizontalAlignment="Stretch" 
+            Stretch="Fill"
+            Margin="2,2,2,2"
+            MouseUp="Image_MouseUp"
+        />
+        <Image Name="BottomRightImage"
+            Grid.Column="3" Grid.Row="2"
+            Source="/Images/ProductivityAppIcons/06-phone.jpg" 
+            VerticalAlignment="Stretch" 
+            HorizontalAlignment="Stretch" 
+            Stretch="Fill"
+            Margin="2,2,2,2"
+            MouseUp="Image_MouseUp"
+        />
+        <Canvas
+            Grid.Column="0" Grid.Row="0"
+            Grid.ColumnSpan="4"
+            Grid.RowSpan="3"
+            Opacity="0.4"
+            Background="#2E2E2E"
+            IsHitTestVisible="False"
+        />
+        <Grid
+            Grid.Column="0" Grid.Row="0"
+            Grid.ColumnSpan="2"
+            Grid.RowSpan="2"
+        >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.33*"></RowDefinition>
+                <RowDefinition Height="0.33*"></RowDefinition>
+                <RowDefinition Height="0.33*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Label Name="AppNameLabelTop1"  
+                   Grid.Row="2"
+                   FontSize="25" 
+                   FontWeight="DemiBold"
+                   Foreground="White"
+                   VerticalAlignment="Bottom"
+                   HorizontalContentAlignment="Center"
+            >
+                Phtoshop
+            </Label>
+        </Grid>
+        <Grid
+            Grid.Column="0" Grid.Row="2"
+        >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.15*"></ColumnDefinition>
+                <ColumnDefinition Width="0.70*"></ColumnDefinition>
+                <ColumnDefinition Width="0.15*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.5*"></RowDefinition>
+                <RowDefinition Height="0.35*"></RowDefinition>
+                <RowDefinition Height="0.15*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Label Name="AppNameLabelBottom1" 
+                   FontWeight="DemiBold"
+                   FontSize="25" 
+                   Foreground="White"
+                   Grid.Row="1"
+                   Grid.Column="1"
+                   VerticalAlignment="Bottom"
+                   HorizontalContentAlignment="Center"
+            >
+                Snack
+            </Label>
+        </Grid>
+        <Grid
+            Grid.Column="1" Grid.Row="2"
+        >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.15*"></ColumnDefinition>
+                <ColumnDefinition Width="0.70*"></ColumnDefinition>
+                <ColumnDefinition Width="0.15*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.5*"></RowDefinition>
+                <RowDefinition Height="0.35*"></RowDefinition>
+                <RowDefinition Height="0.15*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Label Name="AppNameLabelBottom2" 
+                   FontWeight="DemiBold"
+                   FontSize="25" 
+                   Foreground="White"
+                   Grid.Row="1"
+                   Grid.Column="1"
+                   VerticalAlignment="Bottom"
+                   HorizontalContentAlignment="Center"
+            >
+                Watch
+            </Label>
+        </Grid>
+        <Grid
+            Grid.Column="2" Grid.Row="0"
+            Grid.RowSpan="2"
+            Grid.ColumnSpan="2"
+        >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.33*"></RowDefinition>
+                <RowDefinition Height="0.33*"></RowDefinition>
+                <RowDefinition Height="0.33*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Label Name="AppNameLabelTop2" 
+                   FontWeight="DemiBold"
+                   FontSize="25" 
+                   Foreground="White"
+                   Grid.Row="2"
+                   VerticalAlignment="Bottom"
+                   HorizontalContentAlignment="Center"
+            >
+                Finance
+            </Label>
+        </Grid>
+        <Grid
+            Grid.Column="2" Grid.Row="2"
+        >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.15*"></ColumnDefinition>
+                <ColumnDefinition Width="0.70*"></ColumnDefinition>
+                <ColumnDefinition Width="0.15*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.5*"></RowDefinition>
+                <RowDefinition Height="0.35*"></RowDefinition>
+                <RowDefinition Height="0.15*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Label Name="AppNameLabelBottom3" 
+                   FontWeight="DemiBold"
+                   FontSize="25" 
+                   Foreground="White"
+                   Grid.Row="1"
+                   Grid.Column="1"
+                   VerticalAlignment="Bottom"
+                   HorizontalContentAlignment="Center"
+            >
+                Slick Draw
+            </Label>
+        </Grid>
+        <Grid
+            Grid.Column="3" Grid.Row="2"
+        >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.15*"></ColumnDefinition>
+                <ColumnDefinition Width="0.70*"></ColumnDefinition>
+                <ColumnDefinition Width="0.15*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.5*"></RowDefinition>
+                <RowDefinition Height="0.35*"></RowDefinition>
+                <RowDefinition Height="0.15*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Label Name="AppNameLabelBottom4" 
+                   FontWeight="DemiBold"
+                   FontSize="25" 
+                   Foreground="White"
+                   Grid.Row="1"
+                   Grid.Column="1"
+                   VerticalAlignment="Bottom"
+                   HorizontalContentAlignment="Center"
+            >
+                Phone
+            </Label>
+        </Grid>
+    </Grid>
+</UserControl>
